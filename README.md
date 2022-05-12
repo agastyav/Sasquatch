@@ -31,6 +31,5 @@ For progress updates, and new features, make sure to check out the wiki!
 
 
 
-|--------------------------|
 | AVAV&NotAV               |
 |--------------------------|
