@@ -7,9 +7,10 @@ This project was made by:
 -  Ashrith Velegandula
 -  Joseph Bi
 
-Currently the games are "Casino Themed", but we may add other types of games in the future...
+Currently most of the games are "Casino Themed", but we may add other types of games in the future...
   
-  
+----------------------------------------------------------------------------------------------------------------------------------------  
+
 # Writeup:
 
 Within this project we have a HTML website, which has features such as...
