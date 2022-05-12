@@ -23,7 +23,7 @@ The games we included are
 - Roulette (not russian)
 - Keno (Work in Progress)
 
-A more detailed writeup, can be found in "writeup.txt file".
+A more detailed writeup, can be found in the "writeup.txt file".
 
 For progress updates, and new features, make sure to check out the wiki!
 
