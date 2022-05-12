@@ -9,9 +9,9 @@ This project was made by:
 
 Currently most of the games are "Casino Themed", but we may add other types of games in the future...
   
-----------------------------------------------------------------------------------------------------------------------------------------  
+  
 
-# Writeup:
+# About this Project:
 
 Within this project we have a HTML website, which has features such as...
 
