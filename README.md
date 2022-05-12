@@ -1,4 +1,4 @@
-# Sasquatch
+# Welcome to Sasquatch!
 
 Hello! Welcome to Our Final Project for CS.
 
@@ -13,5 +13,10 @@ Currently the games are "Casino Themed", but we may add other types of games in 
 
 # Writeup:
 
-Within this project...
+Within this project we have a HTML website, which has features such as...
+
+The games we included are
+- ...
+
+
 
