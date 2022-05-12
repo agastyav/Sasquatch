@@ -8,6 +8,8 @@ This project was made by:
 -  Joseph Bi
 
 Currently most of the games are "Casino Themed", but we may add other types of games in the future...
+
+The website can be accessed at: https://agastyav.github.io/Sasquatch/
   
   
 
