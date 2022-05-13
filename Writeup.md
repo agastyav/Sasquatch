@@ -21,7 +21,7 @@ The games we added were:
 - Keno
 - Blackjack 2.0  
 
-For the slot machine, it works by...
+The slot machine works by...
 
 Blackjack (python), works by
 
