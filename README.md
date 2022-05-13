@@ -25,6 +25,7 @@ The games we included are
 - Roulette (not russian)
 - Keno
 - Blackjack 2.0
+- Slots (C)
 
 A more detailed writeup, can be found in the "Writeup.md" file.
 
