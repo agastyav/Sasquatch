@@ -3,9 +3,9 @@
 Hello! Welcome to Our Final Project for "Fundamentals of Computer Science - 2022".
 
 This project was made by:
--  Agastya Varanasi
--  Ashrith Velegandula
--  Joseph Bi
+-  Agastya V.
+-  Ashrith V.
+-  Joseph B.
 
 Currently most of the games are "Casino Themed", but we may add other types of games in the future...
 
