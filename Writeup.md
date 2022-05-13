@@ -1,7 +1,6 @@
 
 # Writeup
 
-Work in progress...
 
    For our Final Project, We decided to make a HTML website, which showcases all of our Casino themed games - Somewhat like a _digital casino_.
 To start of, we wanted to create a name and establish a somewhat "credible looking" homescreen, we chose the name "Sasquatch" (for reasons unknown), as our name, and then we started to work on our website. First of, we decided to inclue a [GIF that displays a sasquatch](https://giphy.com/gifs/gjHuIwidiRcjemb1GH) from Giphy. We then started to work on the more functional aspects of the website. 
