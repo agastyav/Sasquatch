@@ -11,6 +11,8 @@ To start of, we wanted to create a name and establish a somewhat "credible looki
    
    The Final Thing we added within the website was a auto scroll button. Because we moved the slideshow further down the page, we had to make it at least somewhat clear that the user must scroll down to view the games, it was for that reason that we added a downwards pointing arrown which directs the user where to go. Then, to make the arrow more functional, we made it an arrow that will auto scroll to the game, when you click on it.
    
+   Here is a link to the website: https://agastyav.github.io/Sasquatch/
+   
 The games we added were:
 -  Slot Machine
 - Blackjack
