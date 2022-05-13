@@ -19,7 +19,7 @@ The games we added were:
 - Coin Flip
 - Roulette (not russian)
 - Keno
-- Blackjack 2.0
+- Blackjack (C)
 - Slots (C)  
 
 The slot machine works by...
