@@ -23,7 +23,8 @@ The games we included are
 - Guess an Number
 - Coin Flip
 - Roulette (not russian)
-- Keno (Work in Progress)
+- Keno
+- Blackjack 2.0
 
 A more detailed writeup, can be found in the "Writeup.md" file.
 
